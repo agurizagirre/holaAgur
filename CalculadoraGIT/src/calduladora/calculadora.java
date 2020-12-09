@@ -3,7 +3,7 @@ package calduladora;
 public class calculadora{
     public static void main(String[] args)
     {
-        System.out.println("Calculadora");
+        System.out.println("Calculadora Agur");
     }
     public static int suma(int x, int y)
     {
